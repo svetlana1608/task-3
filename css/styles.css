@@ -1,6 +1,5 @@
 html,
 body {
-<<<<<<< HEAD
 	position: relative;
 	height: 100%;
 }
@@ -80,7 +79,6 @@ body {
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   display: -webkit-box;
->>>>>>> e852406f010a8d3d88b5953f107fb9223fb3cc82
 }
 
 .swiper-slide img {
