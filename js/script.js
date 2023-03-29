@@ -1,5 +1,6 @@
 
 const swiper = new Swiper('.swiper', {
+<<<<<<< HEAD
   // Optional parameters
   direction: 'horizontal',
   loop: true,
@@ -38,3 +39,26 @@ const swiper = new Swiper('.swiper', {
   });
 
 
+=======
+    // Optional parameters
+    loop: true,
+    slidesPerView: 4,
+    spaceBetween: 30,
+  
+    // If we need pagination
+    pagination: {
+      el: '.swiper-pagination',
+    },
+  
+    // Navigation arrows
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+  
+    // And if we need scrollbar
+    scrollbar: {
+      el: '.swiper-scrollbar',
+    },
+  });
+>>>>>>> e852406f010a8d3d88b5953f107fb9223fb3cc82
