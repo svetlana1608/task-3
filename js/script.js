@@ -1,6 +1,5 @@
 
 const swiper = new Swiper('.swiper', {
-<<<<<<< HEAD
   // Optional parameters
   direction: 'horizontal',
   loop: true,
@@ -61,4 +60,3 @@ const swiper = new Swiper('.swiper', {
       el: '.swiper-scrollbar',
     },
   });
->>>>>>> e852406f010a8d3d88b5953f107fb9223fb3cc82
