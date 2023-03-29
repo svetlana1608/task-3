@@ -22,7 +22,7 @@ const swiper = new Swiper('.swiper', {
     el: '.swiper-scrollbar',
   },
   breakpoints: {
-    1800: {
+    1200: {
       slidesPerView: 4
     },
     767: {
